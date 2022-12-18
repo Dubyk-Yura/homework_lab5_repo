@@ -22,7 +22,7 @@ int main() {
     Safe.FishAdd(Som);
     Safe.SeeAllFish();
     Safe.ThreeBiggest();
-    Safe.PrintVolume_Space();
+    Safe.PrintVolumeSpace();
     cout << "--------------------------------------------------------CHANGE-------------------------------------------------------" << '\n';
     Aquarium Danger;
     Danger.FishAdd(Chop);
@@ -31,6 +31,6 @@ int main() {
     Danger.FishAdd(Karas);
     Danger.SeeAllFish();
     Danger.ThreeBiggest();
-    Danger.PrintVolume_Space();
+    Danger.PrintVolumeSpace();
 
 }
